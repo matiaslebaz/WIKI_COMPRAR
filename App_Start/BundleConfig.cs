@@ -23,7 +23,7 @@ namespace WIKI_COMPRAR
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/bootstrap-cys.css",
                       "~/Content/site.css"));
         }
     }
